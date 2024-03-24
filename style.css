@@ -1,0 +1,102 @@
+.inputwali{
+    text-align: center;
+}
+.image{
+    position: relative;
+    text-align: center;
+    color: whitesmoke;
+}
+.companyname1{
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-size: 100px; 
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 2px;
+}
+.companyname2{
+    position: absolute;
+    top: 100px;
+    left: 16px;
+    font-size: 100px;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 2px;
+}
+.companyname3{
+    position: absolute;
+    top: 200px;
+    left: 16px;
+    font-size: 100px;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 2px;
+}
+.btn1 {
+    color: white;
+    background-color: #9f1515e3;
+    font-size: 27px;
+    margin: 70px 700px;
+    padding: 0px 40px;
+    border-radius: 10px;
+    touch-action:cross-slide-x;
+  }
+  .show{
+    width: 739px; 
+  }
+  h1{
+    font-family: 'Playball', cursive;
+  }
+  #gnames,#bnames{
+    font-size: 70px;
+  }
+#bookmarks{
+        background: #fff;
+        line-height: 30px;
+        color: #db7ec2;
+        padding: 40px;
+        box-shadow:
+        rgb(201, 54, 95) 0px 0px 0px 5px inset,
+        rgba(201, 54, 96, 0) 0px 0px 0px 5px inset, 
+        rgb(242 63 113) 0px 0px 0px 10px inset, 
+        rgba(231, 226, 228, 0) 0px 0px 0px 11px inset, 
+        rgb(224, 118, 164) 0px 0px 0px 16px inset, 
+        rgb(229, 81, 189) 0px 0px 0px 17px inset, 
+        rgb(255, 140, 190) 0px 0px 0px 21px inset, 
+        rgb(255 235 205) 0px 0px 0px 30px inset;
+        text-shadow: 3px 3px 1px #bfecf7;
+        display: flex; 
+        justify-content: space-around;
+        margin: 100px;
+        margin-top: 120px;
+        position: relative;
+        background-color: beige;
+}
+#profile{
+  position: absolute;
+  border-radius: 30px
+}
+#renderImage{
+  width: 650px;
+    height: 433px;
+    background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  box-shadow: 0 40px 80px #ba9089;
+  border-radius: 64px;
+  margin-top: 20px;
+}
+body{
+    background-color: blanchedalmond;
+}
+container2
+#renderImage{
+  width: 310px;
+  height: 433px;
+}
+.mystyle{
+  background-color: mistyrose;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: black;
+  text-shadow: 3px 3px 1px orange;
+  
+}
